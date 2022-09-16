@@ -1,0 +1,15 @@
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\bin\Debug\net6.0\homework_9-1.exe
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\bin\Debug\net6.0\homework_9-1.deps.json
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\bin\Debug\net6.0\homework_9-1.runtimeconfig.json
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\bin\Debug\net6.0\homework_9-1.dll
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\bin\Debug\net6.0\homework_9-1.pdb
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\homework_9-1.csproj.AssemblyReference.cache
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\homework_9-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\homework_9-1.AssemblyInfoInputs.cache
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\homework_9-1.AssemblyInfo.cs
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\homework_9-1.csproj.CoreCompileInputs.cache
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\homework_9-1.dll
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\refint\homework_9-1.dll
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\homework_9-1.pdb
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\homework_9-1.genruntimeconfig.cache
+C:\Users\main\Documents\GB_nata\C# homework_9\homework_9-1\obj\Debug\net6.0\ref\homework_9-1.dll
